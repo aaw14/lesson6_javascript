@@ -4,19 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 2, 2017
 
 ### Student Name:  
-(First and Last Name)
+Alexis Wood
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project I explored the structure of the BOM and the DOM, and referenced some of
+the basic properties and methods of objects in the browser. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+
+https://github.com/aaw14/lesson6_javascript
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Accessed elements by id, tag name, class, name or selector
+2. Accessed element content, CSS properties, and attributes
+3. Added and remove document nodes
